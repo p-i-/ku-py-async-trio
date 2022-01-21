@@ -27,7 +27,7 @@ It fetches a websocket token (which requires a REST API call) and connects to a 
 > pip install arrow trio trio-websocket httpx[http2]
 ```
 
-Also create a kucoin.json file:
+Also create a ../kucoin.json file (i.e. in parent of repo home-folder):
 ```
 {
     "api_key": "...",
