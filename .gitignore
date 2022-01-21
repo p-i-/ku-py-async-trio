@@ -1,0 +1,10 @@
+# don't put your keys in the repo
+kucoin.json
+
+src/__pycache__/
+
+# output from main.py
+src/log.txt
+
+# macOS
+.DS_Store
